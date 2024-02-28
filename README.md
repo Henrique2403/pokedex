@@ -1,5 +1,6 @@
 # Pokedex
 
+-alterando o arquivo
 - instalar node.js (LTS)
 - instalar angular (npm install -g @angular/cli)
 
